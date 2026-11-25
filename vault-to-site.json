@@ -1,0 +1,7 @@
+{
+  "plugin": "vault-to-site",
+  "version": "0.1.6",
+  "extra": [
+    "Resume.pdf"
+  ]
+}
